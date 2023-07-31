@@ -4,7 +4,7 @@ function addReminder() {
     const reminderTime = document.getElementById('reminderTime').value;
     const selectedEmoji = document.getElementById('emojiPicker').value;
   
-    if (drugName.trim() === '' || reminderTime === '' || selectedEmoji === '') {
+    if (drugName.trim() === '' || reminderTime === '') {
       alert('Please enter the drug name, reminder time, and select an emoji.');
       return;
     }
