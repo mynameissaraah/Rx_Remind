@@ -9,7 +9,7 @@ body {
   max-width: 400px;
   margin: 20px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color:lightgray;
   border-radius: 10px; /* Make the container rounder */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
 }
